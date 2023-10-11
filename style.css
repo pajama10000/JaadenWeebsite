@@ -1,0 +1,327 @@
+.desktop {
+  background-color: #0b0b0b;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #0b0b0b;
+  overflow: hidden;
+  width: 1440px;
+  height: 3179px;
+  position: relative;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 1794px;
+  height: 556px;
+  top: 12px;
+  left: -98px;
+}
+
+.desktop .group {
+  position: absolute;
+  width: 1002px;
+  height: 68px;
+  top: 107px;
+  left: 162px;
+  box-shadow: 10px 10px 100px #00000040;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  width: 1000px;
+  top: 0;
+  left: 0;
+  text-shadow: 100px 100px 100px #719bd940;
+  background: linear-gradient(180deg, rgb(192, 255, 224.76) 0%, rgb(137.06, 198.39, 255) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Stretch Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  width: 916px;
+  top: 224px;
+  left: 127px;
+  font-family: "Stretch Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #9ed2e8;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  width: 611px;
+  top: 292px;
+  left: 145px;
+  font-family: "Stretch Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: #9ed2e8;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .element {
+  position: absolute;
+  width: 201px;
+  height: 210px;
+  top: 138px;
+  left: 1230px;
+  object-fit: cover;
+}
+
+.desktop .overlap-group-wrapper {
+  position: absolute;
+  width: 1794px;
+  height: 556px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .overlap-group {
+  position: relative;
+  width: 1790px;
+  height: 556px;
+  top: -4px;
+  left: -4px;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  width: 1200px;
+  top: 0;
+  left: 590px;
+  -webkit-text-stroke: 4px #89c6ff;
+  opacity: 0.13;
+  font-family: "Stretch Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 250px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  width: 1298px;
+  top: 246px;
+  left: 0;
+  -webkit-text-stroke: 4px #89c6ff;
+  opacity: 0.13;
+  font-family: "Stretch Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 250px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .group-2 {
+  position: absolute;
+  width: 1268px;
+  height: 1360px;
+  top: 687px;
+  left: 64px;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 1011px;
+  height: 149px;
+  top: -4px;
+  left: -4px;
+}
+
+.desktop .text-wrapper-6 {
+  position: absolute;
+  width: 1011px;
+  top: 0;
+  left: 0;
+  -webkit-text-stroke: 4px #89c6ff;
+  opacity: 0.13;
+  font-family: "Stretch Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 128px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  width: 629px;
+  top: 29px;
+  left: 195px;
+  text-shadow: 100px 100px 100px #719bd940;
+  background: linear-gradient(180deg, rgb(192, 255, 224.76) 0%, rgb(137.06, 198.39, 255) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Stretch Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .i-m-jaden-a-fulltime {
+  position: absolute;
+  width: 1166px;
+  top: 170px;
+  left: 94px;
+  text-shadow: 100px 100px 100px #719bd940;
+  background: linear-gradient(180deg, rgb(192, 255, 224.76) 0%, rgb(137.06, 198.39, 255) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .i-have-come-to {
+  position: absolute;
+  width: 1166px;
+  top: 542px;
+  left: 94px;
+  text-shadow: 100px 100px 100px #719bd940;
+  background: linear-gradient(180deg, rgb(192, 255, 224.76) 0%, rgb(137.06, 198.39, 255) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .group-3 {
+  position: absolute;
+  width: 1326px;
+  height: 581px;
+  top: 2260px;
+  left: 57px;
+}
+
+.desktop .img {
+  position: absolute;
+  width: 394px;
+  height: 330px;
+  top: 251px;
+  left: 0;
+}
+
+.desktop .group-4 {
+  position: absolute;
+  width: 394px;
+  height: 330px;
+  top: 251px;
+  left: 466px;
+}
+
+.desktop .group-5 {
+  position: absolute;
+  width: 394px;
+  height: 330px;
+  top: 251px;
+  left: 932px;
+}
+
+.desktop .div-wrapper {
+  position: absolute;
+  width: 1155px;
+  height: 95px;
+  top: 0;
+  left: 87px;
+}
+
+.desktop .overlap-group-2 {
+  position: relative;
+  width: 1151px;
+  height: 99px;
+  top: -4px;
+  left: -4px;
+}
+
+.desktop .text-wrapper-8 {
+  position: absolute;
+  width: 1151px;
+  top: 0;
+  left: 0;
+  -webkit-text-stroke: 4px #89c6ff;
+  opacity: 0.13;
+  font-family: "Stretch Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 128px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  width: 629px;
+  top: 34px;
+  left: 265px;
+  text-shadow: 100px 100px 100px #719bd940;
+  background: linear-gradient(180deg, rgb(192, 255, 224.76) 0%, rgb(137.06, 198.39, 255) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Stretch Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+@font-face{
+  font-family: "Poppins", Helvetica;
+  src: url(Poppins-Bold.ttf);
+}
+
+div{
+  font-family: Poppins;
+}
+@font-face{
+  font-family: "Stretch Pro-Regular", Helvetica;
+  src: url(StretchPro.otf);
+}
+
+div{
+  font-family: "Stretch Pro-Regular";
+}
