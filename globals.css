@@ -16,10 +16,9 @@ button:focus-visible {
 a {
   text-decoration: none;
 }
-@import url("https://fonts.googleapis.com/css?family=Poppins:700");
+@import url("https://fonts.googleapis.com/css?family=Poppins:700,200");
 @font-face {
-  /* I had no clue where to get this font without paying so heres the bootleg link */
   font-family: "Stretch Pro-Regular";
   src: url("https://anima-uploads.s3.amazonaws.com/projects/607fc0714ff4cacbe8eb831a/fonts/stretchpro.ttf")
-  format("truetype");
+    format("truetype");
 }
