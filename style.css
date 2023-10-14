@@ -10,7 +10,7 @@
   background-color: #0b0b0b;
   overflow: hidden;
   width: 1440px;
-  height: 4304px;
+  height: 4771px;
   position: relative;
 }
 
@@ -226,15 +226,133 @@
   line-height: normal;
 }
 
+.desktop .group-3 {
+  position: absolute;
+  width: 394px;
+  height: 330px;
+  top: 2438px;
+  left: 978px;
+  background-image: url(./img/group-164-5.png);
+  background-size: 100% 100%;
+}
+
+.desktop .img {
+  position: absolute;
+  width: 394px;
+  height: 330px;
+  top: 2438px;
+  left: 46px;
+}
+
+.desktop .group-4 {
+  position: absolute;
+  width: 394px;
+  height: 330px;
+  top: 2438px;
+  left: 512px;
+  background-image: url(./img/group-164-4.png);
+  background-size: 100% 100%;
+}
+
+.desktop .group-5 {
+  position: absolute;
+  width: 394px;
+  height: 330px;
+  top: 2793px;
+  left: 46px;
+  background-image: url(./img/group-164-3.png);
+  background-size: 100% 100%;
+}
+
+.desktop .group-6 {
+  position: absolute;
+  width: 394px;
+  height: 330px;
+  top: 3148px;
+  left: 46px;
+  background-image: url(./img/group-164-2.png);
+  background-size: 100% 100%;
+}
+
+.desktop .group-7 {
+  position: absolute;
+  width: 394px;
+  height: 330px;
+  top: 2793px;
+  left: 512px;
+  background-image: url(./img/group-164-1.png);
+  background-size: 100% 100%;
+}
+
+.desktop .group-wrapper {
+  position: absolute;
+  width: 394px;
+  height: 330px;
+  top: 2793px;
+  left: 978px;
+}
+
+.desktop .group-8 {
+  position: absolute;
+  width: 398px;
+  height: 330px;
+  top: 0;
+  left: -4px;
+}
+
 .desktop .overlap-3 {
   position: absolute;
-  width: 1389px;
-  height: 1190px;
-  top: 3599px;
-  left: 293px;
+  width: 1151px;
+  height: 99px;
+  top: 2175px;
+  left: 140px;
 }
 
 .desktop .text-wrapper-8 {
+  position: absolute;
+  width: 1151px;
+  top: 0;
+  left: 0;
+  -webkit-text-stroke: 4px #89c6ff;
+  opacity: 0.13;
+  font-family: "Stretch Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 128px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  width: 629px;
+  top: 34px;
+  left: 265px;
+  text-shadow: 100px 100px 100px #719bd940;
+  background: linear-gradient(180deg, rgb(192, 255, 224.76) 0%, rgb(137.06, 198.39, 255) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Stretch Pro-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .overlap-4 {
+  position: absolute;
+  width: 1389px;
+  height: 1190px;
+  top: 4042px;
+  left: 321px;
+}
+
+.desktop .text-wrapper-10 {
   position: absolute;
   width: 1346px;
   top: 0;
@@ -269,7 +387,7 @@
   filter: blur(74px);
 }
 
-.desktop .text-wrapper-9 {
+.desktop .text-wrapper-11 {
   position: absolute;
   top: 15px;
   left: 194px;
@@ -303,7 +421,7 @@
   transform: rotate(89deg);
 }
 
-.desktop .overlap-4 {
+.desktop .overlap-5 {
   position: relative;
   height: 800px;
 }
@@ -335,7 +453,7 @@
   object-fit: cover;
 }
 
-.desktop .img {
+.desktop .frame-2 {
   position: absolute;
   width: 100px;
   height: 100px;
@@ -352,7 +470,7 @@
   left: 109px;
 }
 
-.desktop .frame-2 {
+.desktop .frame-3 {
   position: absolute;
   width: 100px;
   height: 100px;
@@ -361,7 +479,7 @@
   transform: rotate(-89deg);
 }
 
-.desktop .frame-3 {
+.desktop .frame-4 {
   position: absolute;
   width: 100px;
   height: 100px;
@@ -410,7 +528,7 @@
   border-color: #ffffff;
 }
 
-.desktop .text-wrapper-10 {
+.desktop .text-wrapper-12 {
   position: absolute;
   width: 629px;
   top: 38px;
@@ -430,150 +548,50 @@
   white-space: nowrap;
 }
 
-.desktop .frame-4 {
+.desktop .frame-5 {
   position: absolute;
   width: 242px;
-  height: 218px;
+  height: 242px;
   top: 487px;
   left: 219px;
-}
-
-.desktop .overlap-5 {
-  position: absolute;
-  width: 1328px;
-  height: 1291px;
-  top: 2180px;
-  left: 57px;
-}
-
-.desktop .group-3 {
-  position: absolute;
-  width: 1328px;
-  height: 1291px;
-  top: 0;
-  left: 0;
-}
-
-.desktop .group-4 {
-  position: absolute;
-  width: 394px;
-  height: 330px;
-  top: 606px;
-  left: 932px;
-  background-image: url(./img/group-164-4.png);
-  background-size: 100% 100%;
-}
-
-.desktop .group-5 {
-  position: absolute;
-  width: 394px;
-  height: 330px;
-  top: 251px;
-  left: 0;
-}
-
-.desktop .group-6 {
-  position: absolute;
-  width: 394px;
-  height: 330px;
-  top: 606px;
-  left: 0;
-}
-
-.desktop .group-7 {
-  position: absolute;
-  width: 394px;
-  height: 330px;
-  top: 606px;
-  left: 466px;
-  background-image: url(./img/group-164-3.png);
-  background-size: 100% 100%;
-}
-
-.desktop .group-8 {
-  position: absolute;
-  width: 394px;
-  height: 330px;
-  top: 961px;
-  left: 0;
-  background-image: url(./img/group-164-2.png);
-  background-size: 100% 100%;
 }
 
 .desktop .group-9 {
   position: absolute;
   width: 394px;
   height: 330px;
-  top: 961px;
-  left: 466px;
-  background-image: url(./img/group-164-1.png);
-  background-size: 100% 100%;
-}
-
-.desktop .group-wrapper {
-  position: absolute;
-  width: 394px;
-  height: 330px;
-  top: 961px;
-  left: 932px;
+  top: 3136px;
+  left: 512px;
 }
 
 .desktop .group-10 {
   position: absolute;
-  width: 398px;
+  width: 394px;
   height: 330px;
-  top: 0;
-  left: -4px;
+  top: 3148px;
+  left: 978px;
 }
 
 .desktop .group-11 {
   position: absolute;
   width: 394px;
   height: 330px;
-  top: 251px;
-  left: 466px;
+  top: 3503px;
+  left: 46px;
 }
 
 .desktop .group-12 {
   position: absolute;
-  width: 394px;
+  width: 402px;
   height: 330px;
-  top: 251px;
-  left: 932px;
+  top: 3503px;
+  left: 508px;
 }
 
-.desktop .text-wrapper-11 {
+.desktop .group-13 {
   position: absolute;
-  width: 1151px;
-  top: -4px;
-  left: 83px;
-  -webkit-text-stroke: 4px #89c6ff;
-  opacity: 0.13;
-  font-family: "Stretch Pro-Regular", Helvetica;
-  font-weight: 400;
-  color: transparent;
-  font-size: 128px;
-  letter-spacing: 0;
-  line-height: normal;
-  white-space: nowrap;
-}
-
-.desktop .text-wrapper-12 {
-  position: absolute;
-  width: 629px;
-  top: 29px;
-  left: 348px;
-  text-shadow: 100px 100px 100px #719bd940;
-  background: linear-gradient(180deg, rgb(192, 255, 224.76) 0%, rgb(137.06, 198.39, 255) 100%);
-  -webkit-background-clip: text !important;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-fill-color: transparent;
-  font-family: "Stretch Pro-Regular", Helvetica;
-  font-weight: 400;
-  color: transparent;
-  font-size: 64px;
-  letter-spacing: 0;
-  line-height: normal;
-  white-space: nowrap;
+  width: 402px;
+  height: 330px;
+  top: 3503px;
+  left: 980px;
 }
